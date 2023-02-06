@@ -99,5 +99,6 @@ Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de p
 🔹 2.2 Paradigma Lógico: Prolog
 
 🤝 Contribuindo
+
 Este [repositório](https://github.com/cami-la/desafio-poo-dio) foi criado para fins de estudo, então contribua com ele.
 
